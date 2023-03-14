@@ -17,7 +17,7 @@ NAME = "Ian Cris Tocle"
 DESCRIPTION = """
 Filipino, 10/31/2003
 
-Graduate at Oxford Brookes University | ACCA Student | Accountant | Data Analyst | Musician | YouTuber | Always looking forward to further development
+Financial Analyst | Accountant | Data Science/Data Analyst | UAE Residence Visa
 """
 EMAIL = "ic.tocle@gmail.com"
 SOCIAL_MEDIA = {
