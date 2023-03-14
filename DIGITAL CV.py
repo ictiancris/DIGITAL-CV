@@ -15,7 +15,7 @@ PAGE_TITLE = "Digital CV | Ian Cris Tocle"
 PAGE_ICON = ":wave:"
 NAME = "Ian Cris Tocle"
 DESCRIPTION = """
-Fresh Graduate at Oxford Brookes University | ACCA Student | Accountant | Data Analyst | Musician | YouTuber | Always looking forward to further development
+Financial Analyst | Accountant | Data Science/Data Analyst | UAE Residence Visa
 """
 EMAIL = "ic.tocle@gmail.com"
 SOCIAL_MEDIA = {
